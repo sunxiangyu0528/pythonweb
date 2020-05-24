@@ -1,0 +1,1 @@
+product_host = 'http://www.example.com'
